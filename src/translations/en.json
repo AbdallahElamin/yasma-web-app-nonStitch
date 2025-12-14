@@ -1,0 +1,22 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "projects": "Our Projects",
+        "certificates": "Certificates",
+        "contact": "Contact Us",
+        "lang": "العربية"
+    },
+    "footer": {
+        "rights": "© 2025 YASMA For Contracting Co. All Rights Reserved."
+    },
+    "common": {
+        "readMore": "Read More",
+        "viewAll": "View All"
+    },
+    "hero": {
+        "title": "Build Your Vision With Precision",
+        "subtitle": "Leading contracting solutions in the Kingdom.",
+        "cta": "Explore Our Work"
+    }
+}
